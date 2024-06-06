@@ -1,7 +1,7 @@
 <h1>PetLife</h1>
 <br>
 <br>
-<h2> Mais um projeto de aprendizado o PetLife que aprendi a fazer no OneBitCode, onde é feito uma página para clínica Veterinaria.</b></h2>
+<h2> Mais um projeto de aprendizado PetLife que aprendi a fazer no OneBitCode, onde é feito uma página para clínica Veterinaria.</b></h2>
 
 <br>
 <h3>Tecnologias:</h3>
